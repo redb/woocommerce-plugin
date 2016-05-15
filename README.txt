@@ -23,6 +23,7 @@ Installing "My Flying Box" can only be done from source at the moment:
 
 1. Go to your Wordpress plugin folder (WP_ROOT/wp-content/plugins/)
 2. git clone --recursive https://github.com/myflyingbox/woocommerce-plugin.git my-flying-box
+AND COPY myflyingbox/php-lce find here https://github.com/myflyingbox/php-lce content in php-lce folder 
 3. cd my-flying-box/includes/lib/php-lce
 4. curl -s http://getcomposer.org/installer | php
 5. php composer.phar install
